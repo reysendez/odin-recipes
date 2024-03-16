@@ -1,0 +1,35 @@
+body {
+    background-color: #16537E;
+    color: #d7e9f2;
+    font-family: 'Verdana', 'Helvetica' , sans-serif;
+    max-width: 800px;
+}
+
+a {
+    color: #d7e9f2;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #80b3ba;
+}
+
+li {
+    line-height: 25px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+    
+}
+
+h1, .caption {
+    text-align: center;
+}
+
+
+.container {
+    text-align: center;
+}
